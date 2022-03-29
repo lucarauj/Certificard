@@ -1,4 +1,4 @@
-### Olá! Estou sou o Lucas Araujo 👋
+### Olá! Eu sou o Lucas Araujo 👋
 
 - 📖 Estou estudando programação;
 
