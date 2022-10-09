@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Lucas Araujo 👋😋
 
-- 📖 Estou estudando programação;
+- 📖 Estou me especializando no back-end (Java);
 
-- 👯 Procuro colaborar com empresas que dêem oportunidades para iniciantes em programação;
+- 🎨 Possuo conhecimento básico em Html, CSS e JavaScript;
 
-- 🤔 Estou disposto a aprender o que for necessário para melhor entrega de resultados para uma organização.  
+- 👨‍🎓 Sou formado em Gestão Financeira (superior), Contabilidade (técnico) e Informática (profissionalizante).
 
 - 💻 Meu linkedin: https://www.linkedin.com/in/lucarauj
