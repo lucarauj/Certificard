@@ -2,7 +2,7 @@
 
 - 📖 Estou me especializando no back-end (Java);
 
-- 🎨 Possuo conhecimento básico em Html, CSS e JavaScript;
+- 🎨 Possuo conhecimento básico em Html, CSS, JavaScript e Typescript;
 
 - 👨‍🎓 Sou formado em Gestão Financeira (superior), Contabilidade (técnico) e Informática (profissionalizante).
 
