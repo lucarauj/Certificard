@@ -39,6 +39,7 @@
   <img align="center" alt="Lucarauj-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Lucarauj-Maven" height="30" width="40" src="https://github.com/lucarauj/assets/blob/main/Maven-Apache.svg">
   <img align="center" alt="Lucarauj-H2" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/H2.png">
+  <img align="center" alt="Lucarauj-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
  
 </div>
   
