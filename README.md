@@ -37,7 +37,9 @@
   <img align="center" alt="Lucarauj-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Lucarauj-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Lucarauj-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="Lucarauj-Maven" height="30" width="40" src="https://github.com/lucarauj/assets/blob/main/Maven-Apache.svg">  
+  <img align="center" alt="Lucarauj-Maven" height="30" width="40" src="https://github.com/lucarauj/assets/blob/main/Maven-Apache.svg">
+  <img align="center" alt="Lucarauj-H2" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/H2.png">
+ 
 </div>
   
 ![Snake animation](https://github.com/lucarauj/lucarauj/blob/output/github-contribution-grid-snake.svg)
