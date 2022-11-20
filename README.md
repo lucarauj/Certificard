@@ -1,4 +1,6 @@
-### Olá! Eu sou o Lucas Araujo 👋😋
+### Olá! Eu sou o Lucas Araujo <a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
+
+<br>
 
 - 📖 Estou me especializando no back-end (Java);
 
@@ -6,7 +8,7 @@
 
 - 👨‍🎓 Sou formado em Gestão Financeira (superior), Contabilidade (técnico) e Informática (profissionalizante).
 
-- ### Meu Linked<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="25px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
+<br>
 
 <p align="center">
 <a href="https://github.com/orgs/lucarauj/repositories?language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
@@ -22,6 +24,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucarauj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarauj&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+<br>
 
 ## Linguaguens e tecnologias com as quais já tive contato:
  
@@ -51,5 +55,7 @@
 <img align="center" alt="Lucarauj-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
 </div>
+  
+<br>
   
 ![Snake animation](https://github.com/lucarauj/lucarauj/blob/output/github-contribution-grid-snake.svg)
