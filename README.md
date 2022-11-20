@@ -6,7 +6,7 @@
 
 - 👨‍🎓 Sou formado em Gestão Financeira (superior), Contabilidade (técnico) e Informática (profissionalizante).
 
-- Meu linkedin: https://www.linkedin.com/in/lucarauj 
+- ### Meu Linked<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="25px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
 
 
 <div align="center">
