@@ -8,6 +8,14 @@
 
 - ### Meu Linked<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="25px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
 
+<p align="center">
+<a href="https://github.com/orgs/lucarauj/repositories?language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+<a href="https://github.com/orgs/lucarauj/repositories?language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+<a href="https://github.com/orgs/lucarauj/repositories?language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://github.com/orgs/lucarauj/repositories?language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+<a href="https://github.com/orgs/lucarauj/repositories?&language=typescript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+</p>
+
 
 <div align="center">
   <a href="https://github.com/lucarauj">
