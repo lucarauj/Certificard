@@ -4,18 +4,17 @@
 
 - 📖 Estou me especializando no back-end (Java);
 
-- 🎨 Possuo conhecimento básico em Html, CSS, JavaScript e Typescript;
+- 🎨 Possuo conhecimento básico em Html, CSS e JavaScript;
 
 - 👨‍🎓 Sou formado em Gestão Financeira (superior), Contabilidade (técnico) e Informática (profissionalizante).
 
 <br>
 
 <p align="center">
-<a href="https://github.com/orgs/lucarauj/repositories?language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
-<a href="https://github.com/orgs/lucarauj/repositories?language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
-<a href="https://github.com/orgs/lucarauj/repositories?language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-<a href="https://github.com/orgs/lucarauj/repositories?language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-<a href="https://github.com/orgs/lucarauj/repositories?&language=typescript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=css&sort="><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
 </p>
 
 
