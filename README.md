@@ -1,4 +1,6 @@
-### Olá! Eu sou o Lucas Araujo <a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a></p>
+
+### Olá! Eu sou o Lucas Araujo 
 
 <br>
 
@@ -50,11 +52,11 @@
   <img align="center" alt="Lucarauj-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Lucarauj-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Lucarauj-Npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Lucarauj-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Lucarauj-Maven" height="50" width="60" src="https://github.com/lucarauj/assets/blob/main/Maven-Apache.svg">
+  <img align="center" alt="Lucarauj-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Lucarauj-H2" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/H2.png">
-  <img align="center" alt="Lucarauj-Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="center" alt="Lucarauj-Mysql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Lucarauj-Postgresql" height="40" width="50" src="https://github.com/lucarauj/assets/blob/main/postgresql.svg" />
+  <img align="center" alt="Lucarauj-Mysql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
 </div>
   
