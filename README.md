@@ -57,6 +57,8 @@
   <img align="center" alt="Lucarauj-Mysql" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Lucarauj-Mockito" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/mockito.png">
   <img align="center" alt="Lucarauj-Selenium" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/SeleniumWebDriver.png"/>
+  <img align="center" alt="Lucarauj-Selenium" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/AllureReport.jpg"/>
+  
   
   
  
