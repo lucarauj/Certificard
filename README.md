@@ -59,9 +59,6 @@
   <img align="center" alt="Lucarauj-Selenium" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/SeleniumWebDriver.png"/>
   <img align="center" alt="Lucarauj-RestAssured" height="40" width="110" src="https://github.com/lucarauj/assets/blob/main/RestAssured.jpeg"/>  
   <img align="center" alt="Lucarauj-Allure" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/AllureReport.jpg"/>
-  
-  
-  
  
 </div>
   
