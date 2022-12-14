@@ -40,6 +40,7 @@
   <img align="center" alt="Lucarauj-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Lucarauj-Netlify" height="20" width="80" src="https://github.com/lucarauj/assets/blob/main/Netlify.png">
   <img align="center" alt="Lucarauj-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Lucarauj-SpringBoot" height="40" width="110" src="https://github.com/lucarauj/assets/blob/main/SpringBoot.jpeg">
   <img align="center" alt="Lucarauj-Swagger" height="30" width="90" src="https://github.com/lucarauj/assets/blob/main/Swagger.png">
   <img align="center" alt="Lucarauj-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Lucarauj-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
