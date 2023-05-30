@@ -8,7 +8,9 @@
 
 - 🎨 Possuo conhecimento básico em Html, CSS e JavaScript;
 
-- 👨‍🎓 Sou formado em Gestão Financeira (superior) e Contabilidade (técnico).
+- 👨‍🎓 Sou formado em Gestão Financeira (superior) e Contabilidade (técnico);
+
+- 📚 Cursando Análise e Desenvolvimento de Sistemas. 
 
 <br>
 
