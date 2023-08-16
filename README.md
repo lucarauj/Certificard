@@ -4,13 +4,17 @@
 
 <br>
 
-- 📖 Estou me especializando no back-end (Java);
+- ⚒ Desenvolvedor Back-end na DevsFree;
 
-- 🎨 Possuo conhecimento básico em Html, CSS e JavaScript;
+- 📖 Especializando no back-end (Java, Spring Framework, Postgres, Git);
 
-- 👨‍🎓 Sou formado em Gestão Financeira (superior) e Contabilidade (técnico);
+- 🎨 Possuo conhecimento básico em Html, CSS e JavaScript, Node.js;
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas. 
+- 👨‍🎓 Formado em Gestão Financeira (superior) e Contabilidade (técnico);
+
+- 📚 Cursando Análise e Desenvolvimento de Sistemas (Faculdade Vincit);
+
+- 📙 Cursando Programador Full-stack (Senai);
 
 <br>
 
