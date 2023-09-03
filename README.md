@@ -17,14 +17,9 @@
 - 📙 Cursando Programador Full-stack (Senai);
 
 <br>
+<br>
 
-<p align="center">
-<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black" alt="Java"/></a>
-<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML"/></a>
-<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=css&sort="><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black" alt="CSS"/></a>
-<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-<a href="https://github.com/lucarauj?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-0a85ff?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript"/></a>
-</p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucarauj&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
   
 <br>
 
@@ -62,7 +57,3 @@
   <img align="center" alt="Lucarauj-Allure" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/AllureReport.jpg"/>
  
 </div>
-  
-<br>
-  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucarauj&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
