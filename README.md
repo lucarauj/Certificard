@@ -4,7 +4,7 @@
 
 <br>
 
-- ⚒ Desenvolvedor Back-end na DevsFree;
+- ⚒ Desenvolvedor Back-end;
 
 - 📖 Especializando no back-end (Java, Spring Framework, Postgres, Git);
 
