@@ -4,11 +4,9 @@
 
 <br>
 
-- ⚒ Desenvolvedor Back-end;
+- ⚒ Desenvolvedor Back-end (Java, Spring Framework, Postgres, MySQL, Git);
 
-- 📖 Especializando no back-end (Java, Spring Framework, Postgres, Git);
-
-- 🎨 Possuo conhecimento básico em Html, CSS e JavaScript, Node.js;
+- 🎨 Possuo conhecimento básico em Html, CSS, JavaScript, TypeScript, React, Node.js e Scrum;
 
 - 👨‍🎓 Formado em Gestão Financeira (superior) e Contabilidade (técnico);
 
